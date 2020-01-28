@@ -9,4 +9,4 @@ The main file is Presentation_many.ipynb, which contains a thorough presentation
 For a deeper insight of the code, classes_many.ipynb contains the definition of all the classes, options_many.ipynb contains all the initialization options of the program, Functions_many.ipynb contains all the functions used in the program, divided in topics.
 
 
-!!! This Project is an early stage project. It may contain bugs and the coding strategy is not optimal. The program has been completed 4 months after starting to learn Python.
+!!! This Project is an early stage project. It may contain bugs and the coding strategy is not optimal.
